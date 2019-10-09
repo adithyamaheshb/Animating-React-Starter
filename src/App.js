@@ -1,6 +1,7 @@
 import React from "react";
 import { useSpring, animated } from "react-spring";
 import { Toggle } from "./Toggle";
+import Nav from "./Nav";
 import logo from "./logo.svg";
 import "./App.css";
 
